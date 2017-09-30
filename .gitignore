@@ -1,0 +1,5 @@
+*.exe
+*.sh
+*.pyc
+datasets/
+.DS_Store
